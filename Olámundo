@@ -1,1 +1,8 @@
+#incloud  <stdio.h>  
 
+
+      int man ("Olá, mundo"\n) {
+
+      return 0
+
+}
